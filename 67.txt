@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>67</title>
+<style>
+</style>
+</head>
+<body>
+
+<select id="games" name="games_428jad98i2ndiapojew">
+  <option value="https://thepythonseal.github.io/sodium-hypobromite/e12w.txt">Eagler 1.12.2 WASM-GC</option>
+  <option value="https://thepythonseal.github.io/sodium-hypobromite/e12j.txt" disabled>Eagler 1.12.2 JS [Not Available]</option>
+  <option value="https://thepythonseal.github.io/sodium-hypobromite/e8w.txt">Eagler 1.8.8 WASM-GC</option>
+  <option value="https://thepythonseal.github.io/sodium-hypobromite/e8j.txt">Eagler 1.8.8 JS</option>    
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/1on1soccer.html">1on1soccer from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/2048.html">2048 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/40xescape.html">40xescape from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/about.html">About from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/agariolite.html">AgarioLite from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/bloonstowerdefense1.html">Bloons Tower Defense 1 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/bloonstowerdefense2.html">Bloons Tower Defense 2 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/bloonstowerdefense5.html">Bloons Tower Defense 5 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/bloxorz.html">Bloxorz from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/breakingthebank.html">Breaking the Bank from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/catninja.html">Cat Ninja from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/celeste.html">Celeste from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/codeeditor.html">Code Editor from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ducklife1.html">Duck Life 1 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ducklife2.html">Duck Life 2 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ducklife3.html">Duck Life 3 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ducklife4.html">Duck Life 4 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ducklife5.html">Duck Life 5 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/edgenotfound.html">Edge Not Found from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/escapingtheprison.html">Escaping the Prison from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/evilglitch.html">Evil Glitch from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/fleeingthecomplex.html">Fleeing the Complex from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/floodrunner4.html">Flood Runner 4 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/fluidsimulator.html">Fluid Simulator from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/geometrydash.html">Geometry Dash from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/holeio.html">Hole.io from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/infiltratingtheairship.html">Infiltrating the Airship from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/itsrainingboxes.html">It's Raining Boxes from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/justoneboss.html">Just One Boss from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/learntofly1.html">Learn to Fly 1 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/learntofly2.html">Learn to Fly 2 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/learntofly3.html">Learn to Fly 3 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/learntoflyidle.html">Learn to Fly Idle from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/mountainmaze.html">Mountain Maze from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/ninjavsevilcorp.html">Ninja vs Evil Corp from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/offlineparadise.html">Offline Paradise from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/pacman.html">Pacman from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/paperio2.html">Paper.io 2 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/qwop.html">QWOP from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/radiusraid.html">Radius Raid from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/raftwars.html">Raft Wars from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/raftwars2.html">Raft Wars 2 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/rollingforests.html">Rolling Forests from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/sandgame.html">Sand Game from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/slope.html">Slope from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/spacebarclicker.html">Spacebar Clicker from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stack.html">Stack from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stealingthediamond.html">Stealing the Diamond from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stickmanhook.html">Stickman Hook from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/stickmanlife.html">Stickman Life from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/supermario64.html">Super Mario 64 from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/supermariorpg.html">Super Mario RPG from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/tetris.html">Tetris from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/theimpossiblequiz.html">The Impossible Quiz from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/trex.html">T-Rex from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/tubejumpers.html">Tube Jumpers from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/useboxmen.html">Use Boxmen from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/webretro.html">Web Retro from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/wordle.html">Wordle from Gams-Offline</option>
+  <option value="https://raw.githubusercontent.com/Gams-Offline/Gams/refs/heads/main/g/worldshardestgame.html">World's Hardest Game from Gams-Offline</option>
+</select>
+
+
+<!--<div>
+Mode:<br>
+<select id="modeInput">
+<option value="0">Fetch</option>
+<option value="1">Download</option>
+</select>
+</div>-->
+
+<button onclick="spawn()">Load</button>
+<button onclick="openNewTab()">Open in New Tab</button>
+<button onclick="openNewWindow()">Open in New Window</button>
+
+<div id="frameWrap"></div>
+
+<script>
+const game = document.getElementById("games")
+const frameWrap = document.getElementById('frameWrap');
+function spawn(){
+    frameWrap.innerHTML = "";
+    const iframe = document.createElement("iframe");
+    iframe.id = "xframe";
+        fetch(game.value)
+        .then(r => r.text())
+        .then(html => {
+            const blob = new Blob([html], { type: "text/html" });
+            const blobUrl = URL.createObjectURL(blob);
+            iframe.src = blobUrl;
+        });
+    frameWrap.appendChild(iframe);
+}
+function openNewTab() {
+  window.open(
+  document.getElementById("xframe").src,
+  "_blank"
+  );
+}
+function openNewWindow() {
+  const newWindow = window.open(
+  document.getElementById("xframe").src,
+  "CustomWindow",
+  "width=800,height=600,scrollbars=yes,resizable=yes"
+  );
+
+  if (!newWindow) {
+    alert("Popup blocked! Allow pop-ups for this site.");
+  }
+}
+</script>
+
+</body>
+</html>
